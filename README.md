@@ -34,6 +34,4 @@ Estoy lista para sumarme a un equipo donde pueda aportar valor real y seguir con
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlorenciaRomano&show_icons=true&theme=tokyonight" alt="Florencia's GitHub Stats" />
-</p>
+
