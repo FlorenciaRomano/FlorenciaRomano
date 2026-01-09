@@ -1,11 +1,39 @@
-- 👋 Hello everyone! 
+# 👋 Hello, I'm Florencia Romano
+### Frontend Developer | React · TypeScript · Next.js
 
-Desarrolladora Frontend con experiencia liderando el desarrollo de plataformas web escalables en entornos corporativos y de servicios financieros. Trabajo principalmente con React, TypeScript y Next.js, combinando excelencia técnica con foco en producto, negocio y experiencia de usuario.
+Desarrolladora Frontend con sólida experiencia en la creación de plataformas web escalables para los sectores corporativo y de servicios financieros (Diners Club). Mi enfoque combina la **excelencia técnica** con una visión integral de **producto, negocio y experiencia de usuario**.
 
-He participado y liderado iniciativas de Transformación Digital, colaborando con equipos multidisciplinarios bajo metodologías ágiles, y acompañando decisiones técnicas alineadas a objetivos estratégicos. Tengo experiencia trabajando con arquitecturas frontend robustas, integración con APIs y mejora continua de procesos.
+---
 
-Me destaco por una fuerte orientación a resultados, la mentoría de equipos, la comunicación clara con stakeholders técnicos y no técnicos, y la capacidad de traducir necesidades complejas en soluciones simples y sostenibles.
+### 🚀 Sobre mí
 
-Actualmente busco sumarme a un equipo donde pueda aportar impacto real, crecer técnicamente y seguir construyendo productos de calidad .
-Mail: florromanoyt@gmail.com
-Personal phone: 03815832370.
+- 💡 He liderado iniciativas de **Transformación Digital**, traduciendo necesidades complejas en soluciones simples y sostenibles.
+- 🏗️ Especialista en arquitecturas frontend robustas, consumo de APIs y optimización de procesos de desarrollo.
+- 🤝 Experiencia colaborando en equipos multidisciplinarios bajo metodologías **Ágiles** y comunicando decisiones técnicas a stakeholders.
+- 🎓 Enfocada en la mentoría de equipos y en el impacto real de cada línea de código.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Core:** React, Next.js (App Router), TypeScript, JavaScript (ES6+).
+- **Styling:** Tailwind CSS, CSS Modules, Styled Components.
+- **State & Data:** Redux Toolkit, Context API, React Query, Fetch API.
+- **Testing & Tools:** Jest, React Testing Library, Git, Agile/Scrum.
+
+---
+
+### 📫 Contacto
+
+Estoy lista para sumarme a un equipo donde pueda aportar valor real y seguir construyendo productos de alta calidad.
+
+- **Email:** [florromanoyt@gmail.com](mailto:florromanoyt@gmail.com)
+- **Phone:** [+54 381 5832370](tel:+543815832370)
+- **LinkedIn:** [https://www.linkedin.com/in/florencia-romano-4ba3481a0/]
+- **Ubicación:** Tucumán, Argentina 🇦🇷
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlorenciaRomano&show_icons=true&theme=tokyonight" alt="Florencia's GitHub Stats" />
+</p>
