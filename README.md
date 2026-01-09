@@ -1,6 +1,11 @@
 - 👋 Hello everyone! 
 
-I am a FullStack developer with 3 years of experience in FrontEnd related positions, specialized in React. Throughout my career I acquired solid knowledge in: JavaScript, Bootstrap, HTML5, CSS3, Sass/SCSS, Responsive Design, User Experience (UX), Version Control (Git - GitHub), API Integration, NPM, Mobile Development, Testing, Angular. I worked in the development of web applications and mobile applications with React Native, which allowed me to develop skills such as constancy, responsibility, continuous learning and attention to detail. My English level is C1, which enables me to work in international environments and collaborate with global teams.
+Desarrolladora Frontend con experiencia liderando el desarrollo de plataformas web escalables en entornos corporativos y de servicios financieros. Trabajo principalmente con React, TypeScript y Next.js, combinando excelencia técnica con foco en producto, negocio y experiencia de usuario.
 
+He participado y liderado iniciativas de Transformación Digital, colaborando con equipos multidisciplinarios bajo metodologías ágiles, y acompañando decisiones técnicas alineadas a objetivos estratégicos. Tengo experiencia trabajando con arquitecturas frontend robustas, integración con APIs y mejora continua de procesos.
+
+Me destaco por una fuerte orientación a resultados, la mentoría de equipos, la comunicación clara con stakeholders técnicos y no técnicos, y la capacidad de traducir necesidades complejas en soluciones simples y sostenibles.
+
+Actualmente busco sumarme a un equipo donde pueda aportar impacto real, crecer técnicamente y seguir construyendo productos de calidad .
 Mail: florromanoyt@gmail.com
 Personal phone: 03815832370.
